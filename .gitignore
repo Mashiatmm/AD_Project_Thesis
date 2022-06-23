@@ -1,0 +1,6 @@
+ genetic data/ADNI_Imputed_Genotypes/
+genetic data/ADNI_QCed/
+genetic data/prsice_output/
+genetic data/RAW_SNPs/
+genetic data/tabular_format_gwas_data/
+larger_dataset/
