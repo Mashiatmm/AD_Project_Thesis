@@ -1,6 +1,19 @@
- genetic data/ADNI_Imputed_Genotypes/
+genetic data/ADNI_Imputed_Genotypes/
 genetic data/ADNI_QCed/
 genetic data/prsice_output/
 genetic data/RAW_SNPs/
 genetic data/tabular_format_gwas_data/
 larger_dataset/
+genetic data/ImputedGenotypes/
+genetic data/PRSice_linux/
+genetic data/ADNI_TSV_FILE.log
+genetic data/ADNIMERGE.csv
+genetic data/COVAR_FILE_bigger_dataset.txt
+genetic data/COVAR_FILE.txt
+genetic data/GWAS_datasets_to_consider.xlsx
+genetic data/PRS_feature_matrix_larger_dataset.npy
+genetic data/PRS_feature_matrix.npy
+genetic data/simple_table_with_pval.txt
+genetic data/simple_table.txt
+genetic data/usable_samples_ADNI.json
+genetic data/Final_Samples.json
