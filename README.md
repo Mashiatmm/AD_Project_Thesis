@@ -1,14 +1,20 @@
 # Environment Setup
 
 `conda create ad_venv_2`
+
 `conda activate ad_venv_2`
+
 `conda install -c anaconda ipykernel`
+
 `python -m ipykernel install --user --name=ad_venv_2`
+
 `conda env export > environment.yml'
+
 
 Download from the existing environment of the repository :
 
 `conda env create -f environment.yml`
+
 
 Neural Network Layer Explanation Link :
 
