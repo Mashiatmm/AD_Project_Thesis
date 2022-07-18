@@ -1,3 +1,32 @@
+# Environment Setup
+
+`conda create ad_venv_2`
+
+`conda activate ad_venv_2`
+
+`conda install -c anaconda ipykernel`
+
+`python -m ipykernel install --user --name=ad_venv_2`
+
+`conda env export > environment.yml`
+
+
+# Download from the existing environment of the repository :
+
+`conda env create -f environment.yml`
+
+Or update existing environment with the following command :
+
+`conda env update --file local.yml --prune`
+
+
+# Errors
+
+# Shap not showing any plot in jupyter
+
+reassure `shap.initjs()` is there in the code and restart jupyter notebook (don't know why it works but it does )
+
+
 Neural Network Layer Explanation Link :
 
 https://machinelearningknowledge.ai/different-types-of-keras-layers-explained-for-beginners/
