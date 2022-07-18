@@ -33,7 +33,7 @@ a
 # In[3]:
 
 
-df = pd.read_csv('./larger_dataset/COVAR_FILE_bigger_dataset.txt', ' ') 
+df = pd.read_csv('../larger_dataset/COVAR_FILE_bigger_dataset.txt', ' ') 
 df[['AGE', 'PTGENDER']].shape, df[['AGE', 'PTGENDER']].dropna().shape 
 AGE_GENDER_PTID_map = pd.read_csv('./ADNIMERGE.csv')[['PTID', 'PTGENDER', 'AGE']]
 AGE_GENDER_PTID_map['PTGENDER'] = (AGE_GENDER_PTID_map['PTGENDER'] == 'Female').astype(int) #?
