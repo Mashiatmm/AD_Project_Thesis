@@ -8,7 +8,7 @@
 
 `python -m ipykernel install --user --name=ad_venv_2`
 
-`conda env export > environment.yml'
+`conda env export > environment.yml`
 
 
 Download from the existing environment of the repository :
