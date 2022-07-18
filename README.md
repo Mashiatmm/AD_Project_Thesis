@@ -17,7 +17,14 @@
 
 Or update existing environment with the following command :
 
-`conda env update --file local.yml --prune`
+`conda activate ad_venv_2`
+
+`conda env update --file environment.yml --prune` or
+
+`conda env update --file environment.yml`
+
+
+`--prune` uninstalls dependencies which were removed from .yml
 
 
 # Errors
