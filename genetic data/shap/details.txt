@@ -1,0 +1,1 @@
+summary_plot_hidden_4 -> hidden neurons : 4, dim : 32
