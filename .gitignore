@@ -10,7 +10,7 @@ genetic data/ADNI_TSV_FILE.log
 genetic data/ADNIMERGE.csv
 genetic data/COVAR_FILE_bigger_dataset.txt
 genetic data/COVAR_FILE.txt
-genetic data/GWAS_datasets_to_consider.xlsx
+# genetic data/GWAS_datasets_to_consider.xlsx
 genetic data/simple_table_with_pval.txt
 genetic data/simple_table.txt
 # genetic data/usable_samples_ADNI.json
