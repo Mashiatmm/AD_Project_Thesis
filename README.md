@@ -45,3 +45,6 @@ https://towardsdatascience.com/7-popular-activation-functions-you-should-know-in
 check the gitignore file. find out the file system from there
 in my modified file , you'll see folder name "PRSice_output" in place of "prsice_output" make modification ( preferably, change the folder name )
 the ipynb with _modified_by_Naeem is the one I modified. this one should be followed
+
+SHAP for features:
+https://docs.google.com/spreadsheets/d/1x-rmrGebP4Xtf_CfSzC3hbet-grB6WUsvURcc9FbWjI/edit#gid=0 
