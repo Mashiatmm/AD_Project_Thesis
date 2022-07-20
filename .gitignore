@@ -15,8 +15,8 @@ genetic data/PRS_feature_matrix_larger_dataset.npy
 genetic data/PRS_feature_matrix.npy
 genetic data/simple_table_with_pval.txt
 genetic data/simple_table.txt
-genetic data/usable_samples_ADNI.json
-genetic data/Final_Samples.json
+# genetic data/usable_samples_ADNI.json
+# genetic data/Final_Samples.json
 genetic data/VCF-Simplify/VCF-Simplify
 genetic data/VCF-Simplify/VCF-Simplify
 genetic data/PRSice_output.zip
