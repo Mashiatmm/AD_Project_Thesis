@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 num_features,num_nn_layers,global_best_accuracy
 26,6,0.7
 num_features,num_nn_layers,global_best_accuracy
@@ -18,3 +19,16 @@ num_features,num_nn_layers,global_best_accuracy
 22,6,0.76
 num_features,num_nn_layers,global_best_accuracy
 25,6,0.72
+=======
+num_features,num_nn_layers,global_best_accuracy
+26,6,0.7
+23,6,0.76
+23,6,0.76
+23,5,0.75
+23,5,0.75
+23,3,0.78
+23,3,0.76
+23,6,0.74
+22,6,0.76
+34,6,0.7
+>>>>>>> aa257027a9cd464992e0a445929767bb9b2e6644

@@ -48,3 +48,5 @@ the ipynb with _modified_by_Naeem is the one I modified. this one should be foll
 
 SHAP for features:
 https://docs.google.com/spreadsheets/d/1x-rmrGebP4Xtf_CfSzC3hbet-grB6WUsvURcc9FbWjI/edit#gid=0 
+
+in place of reading from all_traits_map.json, we read from traits_map.json
