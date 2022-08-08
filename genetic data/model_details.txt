@@ -38,3 +38,14 @@ XGBoost -> accuracy : 0.624
 Neural Network with 6 layers -> accuracy : 0.7
 Random Forest -> accuracy : 0.6220000000000001
 Neural Network with 6 layers -> accuracy : 0.74
+Neural Network with 6 layers -> accuracy : 0.76
+Random Forest -> accuracy : 0.643
+Neural Network with 6 layers -> accuracy : 0.74
+Neural Network with 6 layers -> accuracy : 0.71
+Random Forest -> accuracy : 0.6409999999999999
+Neural Network with 6 layers -> accuracy : 0.71
+Random Forest -> accuracy : 0.64
+Neural Network with 6 layers -> accuracy : 0.69
+Random Forest -> accuracy : 0.607
+Neural Network with 6 layers -> accuracy : 0.7
+Random Forest -> accuracy : 0.607
