@@ -127,3 +127,5 @@ Random Forest -> accuracy : 0.6199999999999999
 XGBoost -> accuracy : 0.612
 Neural Network with 4 layers -> accuracy : 0.71
 Neural Network with 4 layers -> accuracy : 0.71
+Neural Network with 4 layers -> accuracy : 0.68
+Neural Network with 4 layers -> accuracy : 0.67
