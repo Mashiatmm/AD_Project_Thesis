@@ -143,3 +143,51 @@ Neural Network with 4 layers -> accuracy : 0.71
 Neural Network with 4 layers -> accuracy : 0.68
 Neural Network with 4 layers -> accuracy : 0.67
 >>>>>>> 16c06e0272472d1538c90c45a1ada0caf3aa760b
+Neural Network with 4 layers -> accuracy : 0.71
+Neural Network with 4 layers -> accuracy : 0.74
+Neural Network with 4 layers -> accuracy : 0.77
+Neural Network with 4 layers -> accuracy : 0.74
+Neural Network with 4 layers -> accuracy : 0.68
+Neural Network with 4 layers -> accuracy : 0.68
+Neural Network with 4 layers -> accuracy : 0.69
+Neural Network with 4 layers -> accuracy : 0.68
+Neural Network with 4 layers -> accuracy : 0.76
+Neural Network with 4 layers -> accuracy : 0.75
+Neural Network with 4 layers -> accuracy : 0.73
+Random Forest -> accuracy : 0.613
+Neural Network with 4 layers -> accuracy : 0.74
+Neural Network with 4 layers -> accuracy : 0.75
+Random Forest -> accuracy : 0.6359999999999999
+Neural Network with 4 layers -> accuracy : 0.73
+Random Forest -> accuracy : 0.633
+Neural Network with 4 layers -> accuracy : 0.71
+Random Forest -> accuracy : 0.643
+Neural Network with 4 layers -> accuracy : 0.73
+Random Forest -> accuracy : 0.6370000000000001
+Neural Network with 4 layers -> accuracy : 0.8048780487804879
+Random Forest -> accuracy : 0.633
+Neural Network with 4 layers -> accuracy : 0.7560975609756098
+Random Forest -> accuracy : 0.57
+Neural Network with 4 layers -> accuracy : 0.796875
+Random Forest -> accuracy : 0.6439024390243901
+Neural Network with 4 layers -> accuracy : 0.765625
+Random Forest -> accuracy : 0.6390243902439023
+Neural Network with 4 layers -> accuracy : 0.796875
+Random Forest -> accuracy : 0.6390243902439023
+Neural Network with 4 layers -> accuracy : 0.78125
+Random Forest -> accuracy : 0.6182926829268293
+Neural Network with 4 layers -> accuracy : 0.84375
+Random Forest -> accuracy : 0.6243902439024389
+Neural Network with 4 layers -> accuracy : 0.75
+Random Forest -> accuracy : 0.6243902439024389
+Neural Network with 4 layers -> accuracy : 0.796875
+Neural Network with 4 layers -> accuracy : 0.796875
+Neural Network with 4 layers -> accuracy : 0.75
+Random Forest -> accuracy : 0.6353658536585365
+Neural Network with 4 layers -> accuracy : 0.77
+Random Forest -> accuracy : 0.6180000000000001
+Neural Network with 4 layers -> accuracy : 0.73
+Random Forest -> accuracy : 0.631
+Neural Network with 4 layers -> accuracy : 0.76
+Neural Network with 4 layers -> accuracy : 0.76
+Random Forest -> accuracy : 0.6260000000000001

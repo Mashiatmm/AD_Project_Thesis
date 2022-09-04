@@ -81,3 +81,15 @@ num_features,num_nn_layers,global_best_accuracy
 25,4,0.68
 num_features,num_nn_layers,global_best_accuracy
 26,4,0.67
+num_features,num_nn_layers,global_best_accuracy
+25,4,0.71
+num_features,num_nn_layers,global_best_accuracy
+25,4,0.74
+num_features,num_nn_layers,global_best_accuracy
+25,4,0.77
+num_features,num_nn_layers,global_best_accuracy
+20,4,0.69
+num_features,num_nn_layers,global_best_accuracy
+20,4,0.68
+num_features,num_nn_layers,global_best_accuracy
+26,4,0.75
