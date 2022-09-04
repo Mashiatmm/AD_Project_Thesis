@@ -467,3 +467,8 @@ num_features,num_nn_layers,global_best_accuracy
 20,4,0.68
 num_features,num_nn_layers,global_best_accuracy
 26,4,0.75
+33,4,0.7804878048780488
+24,4,0.7926829268292683
+24,4,0.8048780487804879
+24,4,0.7804878048780488
+22,4,0.7804878048780488
