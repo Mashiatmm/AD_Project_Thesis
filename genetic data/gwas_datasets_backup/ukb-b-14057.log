@@ -1,0 +1,102 @@
+PRSice 2.3.5 (2021-09-20) 
+https://github.com/choishingwan/PRSice
+(C) 2016-2020 Shing Wan (Sam) Choi and Paul F. O'Reilly
+GNU General Public License v3
+If you use PRSice in any published work, please cite:
+Choi SW, O'Reilly PF.
+PRSice-2: Polygenic Risk Score Software for Biobank-Scale Data.
+GigaScience 8, no. 7 (July 1, 2019)
+2022-09-04 15:43:13
+./PRSice_linux/PRSice_linux \
+    --a1 ALT \
+    --a2 REF \
+    --bar-levels 0.001,0.05,0.1,0.2,0.3,0.4,0.5,1 \
+    --base ./tabular_format_gwas_data/ukb-b-14057.tsv \
+    --binary-target F \
+    --bp POS \
+    --chr CHROM \
+    --clump-kb 250kb \
+    --clump-p 1.000000 \
+    --clump-r2 0.100000 \
+    --cov ../larger_dataset/COVAR_FILE_bigger_dataset.txt \
+    --extract ./PRSice_output/ukb-b-14057/ukb-b-14057.valid \
+    --interval 5e-05 \
+    --lower 5e-08 \
+    --num-auto 22 \
+    --or  \
+    --out ./PRSice_output/ukb-b-14057/ukb-b-14057 \
+    --pvalue PVAL_generated_from_LP \
+    --score std \
+    --seed 289126409 \
+    --snp ID \
+    --stat UKB-B-14057:ES \
+    --target ../larger_dataset/larger_dataset \
+    --thread 2 \
+    --upper 0.5
+
+Initializing Genotype file: 
+../larger_dataset/larger_dataset (bed) 
+
+Start processing ukb-b-14057 
+================================================== 
+
+SNP extraction/exclusion list contains 5 columns, will 
+assume first column contains the SNP ID 
+
+Base file: ./tabular_format_gwas_data/ukb-b-14057.tsv 
+Header of file is: 
+
+CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO:AF	UKB-B-14057:ES	UKB-B-14057:SE	UKB-B-14057:LP	UKB-B-14057:AF	UKB-B-14057:SS	UKB-B-14057:EZ	UKB-B-14057:SI	UKB-B-14057:NC	UKB-B-14057:ID	PVAL_generated_from_LP 
+
+9154199 variant(s) observed in base file, with: 
+5899687 variant(s) excluded based on user input 
+3254512 total variant(s) included from base file 
+
+Loading Genotype info from target 
+================================================== 
+
+1816 people (1000 male(s), 816 female(s)) observed 
+1816 founder(s) included 
+
+4573705 variant(s) not found in previous data 
+16 variant(s) with mismatch information 
+3254512 variant(s) included 
+
+There are a total of 1 phenotype to process 
+
+Start performing clumping 
+
+Number of variant(s) after clumping : 251713 
+
+Processing the 1 th phenotype 
+
+Phenotype is a continuous phenotype 
+1816 sample(s) with valid phenotype 
+
+Processing the covariate file: 
+../larger_dataset/COVAR_FILE_bigger_dataset.txt 
+============================== 
+
+Include Covariates: 
+Name	Missing	Number of levels 
+PC1	0	- 
+PC2	0	- 
+PC3	0	- 
+PC4	0	- 
+PC5	0	- 
+PC6	0	- 
+PC7	0	- 
+PC8	0	- 
+PC9	0	- 
+PC10	0	- 
+PTGENDER	0	- 
+AGE	0	- 
+Warning: More than 12.885463% of your samples were removed! 
+         You should check if your covariate file is correct 
+
+After reading the covariate file, 1582 sample(s) included 
+in the analysis 
+
+There are 1 region(s) with p-value between 0.1 and 1e-5 
+(may not be significant). 
+
