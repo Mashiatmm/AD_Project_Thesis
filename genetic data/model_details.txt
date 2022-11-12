@@ -258,3 +258,16 @@ Neural Network with 4 layers_4yrs_41 -> accuracy : 0.851063829787234
 Neural Network with 4 layers_4yrs_41 -> accuracy : 0.8695652173913043
 Neural Network with 4 layers_4yrs_41 -> accuracy : 0.8085106382978723
 Neural Network with 4 layers_4yrs_41 -> accuracy : 0.8297872340425532
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.8
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.7894736842105263
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.8266666666666667
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.8478260869565217
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.8297872340425532
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.782608695652174
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.7763157894736842
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.8260869565217391
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.8085106382978723
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.8266666666666667
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.7763157894736842
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.8133333333333334
+Neural Network with 4 layers_4yrs_41 -> accuracy : 0.8723404255319149
