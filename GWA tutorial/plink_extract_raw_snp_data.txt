@@ -1,0 +1,98 @@
+
+>>>
+
+plink --bfile  ./ADNI --recodeA tab --out ./ADNI_TSV_FILE --threads 1
+
+>>>
+
+../../plink_linux_x86_64_20201019/plink --bfile  ../ImputedGenotypes/PLINK_format/ADNI_plink --recodeA tab --out output_file --threads 32
+
+
+./plink_linux_x86_64_20201019/plink --bfile  ./ADNI_QCed/HapMap_3_r3_13 --recode tab --out ./ADNI_QCed/QCed_data_as_table --threads 32
+
+
+../../plink_linux_x86_64_20201019/plink --bfile  ../ImputedGenotypes/PLINK_format/ADNI_plink\
+ --recodeA tab --out output_file --threads 8 --snp rs652423 --alleleACGT --keep temp.txt\
+ --geno 0.2 \
+ --mind .2\
+ --check-sex\
+ --maf 0.1\
+ --hwe 1e-6\
+ --genome\
+ --min .2\
+ --cluster --mds-plot 10
+
+
+
+../../plink_linux_x86_64_20201019/plink --bfile  ../ImputedGenotypes/PLINK_format/ADNI_plink\
+ --geno 0.2 \
+ --out ADNI_plink_QCed \
+ --make-bed 
+
+ --recodeA tab\
+ --keep temp.txt
+
+
+
+
+../../plink_linux_x86_64_20201019/plink --bfile  ../ImputedGenotypes/PLINK_format/ADNI_plink\
+ --mind .2\
+ --snp rs652423\
+ --out output_file\
+ --recodeA tab\
+ --keep temp.txt
+
+
+
+../../plink_linux_x86_64_20201019/plink --bfile  ../ImputedGenotypes/PLINK_format/ADNI_plink\
+ --snp rs652423\
+ --geno 0.2 \
+ --mind .2\
+ --check-sex\
+ --maf 0.1\
+ --hwe 1e-6\
+ --genome\
+ --min .2\
+ --cluster --mds-plot 10\
+ --out output_file \
+ --recodeA tab
+
+
+
+
+
+../../plink_linux_x86_64_20201019/plink --bfile  ../ImputedGenotypes/PLINK_format/ADNI_plink\
+ --snp rs652423\
+ --geno 0.2 \
+ --mind .2\
+ --check-sex\
+ --maf 0.1\
+ --hwe 1e-6\
+ --genome\
+ --min .2\
+ --cluster --mds-plot 10\
+ --out output_file \
+ --recodeA tab
+
+
+
+
+../../plink_linux_x86_64_20201019/plink --bfile ../ImputedGenotypes/PLINK_format/ADNI_plink\
+ --snp rs652423\
+ --geno 0.2 \
+ --mind .2\
+ --check-sex\
+ --maf 0.1\
+ --hwe 1e-6\
+ --genome\
+ --min .2\
+ --cluster --mds-plot 10\
+ --out output_file \
+ --recodeA tab
+
+
+../../plink_linux_x86_64_20201019/plink --bfile ./ADNI_plink_QCed\
+ --out ADNI_plink_QCed\
+ --make-bed\
+ --maf
+ 

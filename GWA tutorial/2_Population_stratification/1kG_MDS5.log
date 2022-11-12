@@ -1,0 +1,17 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --allow-no-sex
+  --bfile 1kG_MDS4
+  --maf 0.05
+  --make-bed
+  --out 1kG_MDS5
+
+Hostname: naeem-VivoBook-ASUSLaptop-X530FN-S530FN
+Working directory: /media/naeem/New Volume/study/4-1/Thesis/project/from documents folder/2_Population_stratification
+Start time: Mon Jun 13 14:45:53 2022
+
+Random number seed: 1655109953
+7801 MB RAM detected; reserving 3900 MB for main workspace.
+Error: Failed to open 1kG_MDS4.bed.
+
+End time: Mon Jun 13 14:45:53 2022

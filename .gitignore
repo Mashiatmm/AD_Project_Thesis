@@ -20,3 +20,6 @@ genetic data/VCF-Simplify/VCF-Simplify
 genetic data/PRSice_output.zip
 genetic data/.~lock.GWAS_datasets_to_consider.xlsx#
 genetic data/input/
+*.bim
+*.bed
+*.fam
