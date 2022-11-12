@@ -1,0 +1,21 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bfile HapMap_3_r3_11
+  --missing
+
+Hostname: naeem-VivoBook-ASUSLaptop-X530FN-S530FN
+Working directory: /media/naeem/New Volume/study/4-1/Thesis/project/from documents folder/1_QC_GWAS
+Start time: Sat Jun 11 07:38:36 2022
+
+Random number seed: 1654911516
+7801 MB RAM detected; reserving 3900 MB for main workspace.
+501265 variants loaded from .bim file.
+849 people (500 males, 349 females) loaded from .fam.
+836 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 849 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+--missing: Sample missing data report written to plink.imiss, and variant-based
+missing data report written to plink.lmiss.
+
+End time: Sat Jun 11 07:38:38 2022
