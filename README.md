@@ -46,7 +46,13 @@ check the gitignore file. find out the file system from there
 in my modified file , you'll see folder name "PRSice_output" in place of "prsice_output" make modification ( preferably, change the folder name )
 the ipynb with _modified_by_Naeem is the one I modified. this one should be followed
 
-SHAP for features:
+# SHAP for features:
 https://docs.google.com/spreadsheets/d/1x-rmrGebP4Xtf_CfSzC3hbet-grB6WUsvURcc9FbWjI/edit#gid=0 
 
 in place of reading from all_traits_map.json, we read from traits_map.json
+
+# Papers
+
+gwa tutorial: https://drive.google.com/file/d/1zxHoevqiou3DY3VXBe-GuLi5cUd3TPoF/view?usp=share_link
+
+principal component analysis : https://sci-hub.se/https://doi.org/10.1002/gepi.22339 
