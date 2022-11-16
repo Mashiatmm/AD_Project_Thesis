@@ -4,6 +4,7 @@ genetic data/prsice_output/
 genetic data/RAW_SNPs/
 genetic data/tabular_format_gwas_data/
 larger_dataset/
+larger_dataset_by_naeem/
 genetic data/ImputedGenotypes/
 genetic data/PRSice_linux/
 genetic data/ADNI_TSV_FILE.log
