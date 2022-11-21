@@ -1,6 +1,6 @@
 # Environment Setup
 
-`conda create ad_venv_2`
+`conda create -n ad_venv_2`
 
 `conda activate ad_venv_2`
 

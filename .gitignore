@@ -5,6 +5,7 @@ genetic data/RAW_SNPs/
 genetic data/tabular_format_gwas_data/
 larger_dataset/
 larger_dataset_by_naeem/
+larger_dataset_by_naeem2/
 genetic data/ImputedGenotypes/
 genetic data/PRSice_linux/
 genetic data/ADNI_TSV_FILE.log
@@ -21,6 +22,9 @@ genetic data/VCF-Simplify/VCF-Simplify
 genetic data/PRSice_output.zip
 genetic data/.~lock.GWAS_datasets_to_consider.xlsx#
 genetic data/input/
+genetic data/plink_linux_x86_64_20201019/
+genetic data/PRSice_output/
+GWA_tutorial-master/
 *.bim
 *.bed
 *.fam
