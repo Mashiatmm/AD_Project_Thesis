@@ -321,3 +321,6 @@ Neural Network with 4 layers_4yrs_53 -> accuracy : 0.8
 Neural Network with 4 layers_4yrs_53 -> accuracy : 0.7473684210526316
 Neural Network with 4 layers_4yrs_53 -> accuracy : 0.76
 Neural Network with 4 layers_4yrs_53 -> accuracy : 0.7578947368421053
+Neural Network with 4 layers_4yrs_53 -> accuracy : 0.7578947368421053
+Neural Network with 4 layers_4yrs_53 -> accuracy : 0.7733333333333333
+Neural Network with 4 layers_4yrs_53 -> accuracy : 0.7473684210526316
