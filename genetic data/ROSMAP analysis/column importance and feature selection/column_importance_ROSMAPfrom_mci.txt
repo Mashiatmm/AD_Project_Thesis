@@ -1,0 +1,55 @@
+age
+Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself
+Hearing difficulty/problems: Yes
+Non-cancer illness code, self-reported: depression
+Sleep duration
+Parkinson's disease
+LDL cholesterol
+Non-cancer illness code, self-reported: hypertension
+Particulate matter air pollution 2.5-10um; 2010
+Leisure/social activities: Sports club or gym
+Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: Yes, but not in the last year
+Mental health problems ever diagnosed by a professional: Social anxiety or social phobia
+ADHD
+Body mass index (BMI)
+Cigarettes per Day
+Illness, injury, bereavement, stress in last 2 years: Marital separation/divorce
+Non-cancer illness code, self-reported: head injury
+gender
+Types of physical activity in last 4 weeks: Light DIY (eg: pruning, watering the lawn)
+Operation code: brain surgery
+Illnesses of father: Alzheimer's disease/dementia
+Hearing difficulty/problems with background noise
+Prospective memory result
+Nitrogen oxides air pollution; 2010
+Total cholesterol
+Microalbumin in urine
+Loneliness, isolation
+Sleeplessness / insomnia
+Non-cancer illness code, self-reported: hypothyroidism/myxoedema
+Illness, injury, bereavement, stress in last 2 years: Financial difficulties
+triglycerides
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: Yes, during the last year
+Non-cancer illness code, self-reported: anxiety/panic attacks
+HDL cholesterol
+diastolic blood pressure
+Other meat intake
+Alzheimer's disease
+Mood swings
+Mental health problems ever diagnosed by a professional: Anxiety, nerves or generalized anxiety disorder
+Leisure/social activities: Pub or social club
+Non-cancer illness code, self-reported: type 2 diabetes
+systolic blood pressure
+Non-oily fish intake
+Diagnoses - secondary ICD10: I10 Essential (primary) hypertension
+Non-cancer illness code, self-reported: stroke
+Age completed full time education
+Alcohol intake frequency
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: No
+Ever had prolonged loss of interest in normal activities
+Illnesses of mother: Alzheimer's disease/dementia
+Oily fish intake
+Types of physical activity in last 4 weeks: Strenuous sports
+Diagnoses - secondary ICD10: E66.9 Obesity, unspecified
+Processed meat intake

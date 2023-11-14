@@ -1,0 +1,58 @@
+------------------------------------------Correlation with output---------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Non-cancer illness code, self-reported: type 2 ...  0.045950  
+Ever had known person concerned about, or recom...  0.048074  
+Ever had known person concerned about, or recom...  0.018705  
+Ever had known person concerned about, or recom... -0.018579  
+Total cholesterol                                   0.077920  
+HDL cholesterol                                     0.017574  
+LDL cholesterol                                     0.056496  
+triglycerides                                      -0.034537  
+Cigarettes per Day                                 -0.054435  
+systolic blood pressure                            -0.060032  
+diastolic blood pressure                           -0.033659  
+Hearing difficulty/problems: Yes                    0.051292  
+Non-cancer illness code, self-reported: depression -0.006253  
+Non-oily fish intake                                0.030817  
+Hearing difficulty/problems with background noise  -0.016255  
+Body mass index (BMI)                               0.007908  
+Oily fish intake                                    0.040117  
+Sleeplessness / insomnia                           -0.053902  
+Sleep duration                                     -0.000581  
+Age completed full time education                  -0.023842  
+Processed meat intake                              -0.033896  
+Types of physical activity in last 4 weeks: Str...  0.002161  
+Other meat intake                                  -0.033516  
+Loneliness, isolation                               0.015976  
+Illnesses of father: Alzheimer's disease/dementia  -0.014625  
+Illnesses of mother: Alzheimer's disease/dementia   0.001166  
+Mood swings                                         0.028043  
+Non-cancer illness code, self-reported: anxiety...  0.013204  
+Non-cancer illness code, self-reported: stroke     -0.032507  
+Non-cancer illness code, self-reported: head in... -0.044233  
+Alcohol intake frequency                            0.000263  
+Diagnoses - secondary ICD10: E66.9 Obesity, uns...  0.020003  
+Non-cancer illness code, self-reported: hypothy...  0.036790  
+Non-cancer illness code, self-reported: hyperth...  0.039978  
+Non-cancer illness code, self-reported: hyperte...  0.042420  
+Particulate matter air pollution 2.5-10um; 2010    -0.001464  
+Nitrogen oxides air pollution; 2010                -0.032063  
+Types of physical activity in last 4 weeks: Lig...  0.020599  
+Diagnoses - secondary ICD10: I10 Essential (pri...  0.028003  
+Prospective memory result                           0.028696  
+Leisure/social activities: Pub or social club       0.014973  
+Leisure/social activities: Sports club or gym       0.068314  
+Mental health problems ever diagnosed by a prof...  0.050845  
+Mental health problems ever diagnosed by a prof...  0.028064  
+Operation code: brain surgery                       0.018980  
+Ever had prolonged loss of interest in normal a...  0.008523  
+Illness, injury, bereavement, stress in last 2 ...  0.050950  
+Illness, injury, bereavement, stress in last 2 ...  0.014296  
+Illness, injury, bereavement, stress in last 2 ... -0.043409  
+ADHD                                                0.101031  
+Microalbumin in urine                               0.014326  
+Parkinson's disease                                -0.007612  
+age                                                -0.028254  
+gender                                              0.383821  
+
+

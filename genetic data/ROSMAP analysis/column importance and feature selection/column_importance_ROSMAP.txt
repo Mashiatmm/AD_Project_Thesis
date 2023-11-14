@@ -1,0 +1,55 @@
+Age
+Total Cholesterol
+Nitrogen Oxides Air Pollution
+Hypothyroidism
+Hearing Difficulty - Yes
+Triglycerides
+Insomnia
+ADHD
+HDL Cholesterol
+Head Injury
+Social Anxiety
+Financial Difficulties
+Mood Swings
+LDL Cholesterol
+Systolic blood pressure
+Hearing Difficulty
+Anxiety/Panic Attacks
+Father's Alzheimer's
+Recommendation of alcohol consumption - Yes, Not Last Year
+Sleep Duration
+Oily Fish Intake
+BMI
+Type 2 Diabetes
+Light Physical Exercise
+Particulate Matter Air Pollution
+Sports Club/Gym
+Diastolic blood pressure
+Stroke
+Marital Separation/Divorce
+Cigarettes per Day
+Serious Illness/Injury
+Non-Oily Fish Intake
+Hyperthyroidism
+Loneliness
+Other Meat Intake
+Alzheimer's disease
+Mother's Alzheimer's
+Depression
+Parkinson's
+Pub/Social Club
+Anxiety Disorder
+Alcohol Intake Frequency
+Prospective Memory
+Microalbumin in Urine
+Loss of Interest
+Hypertension 1
+Processed Meat Intake
+No recommendation of alcohol consumption
+Brain Surgery
+Hypertension 2
+Gender
+Obesity
+Strenuous Sports
+Age completed full time education
+Recommendation of alcohol consumption

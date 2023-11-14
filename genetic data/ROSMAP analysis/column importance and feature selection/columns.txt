@@ -1,0 +1,16 @@
+Loneliness, isolation
+Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: Yes, during the last year
+Hearing difficulty/problems with background noise
+Non-cancer illness code, self-reported: hypothyroidism/myxoedema
+Non-cancer illness code, self-reported: hypertension
+Types of physical activity in last 4 weeks: Light DIY (eg: pruning, watering the lawn)
+Leisure/social activities: Pub or social club
+Parkinson's disease
+gender
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: No
+Diagnoses - secondary ICD10: I10 Essential (primary) hypertension
+Leisure/social activities: Sports club or gym
+Illness, injury, bereavement, stress in last 2 years: Financial difficulties
+Hearing difficulty/problems: Yes
+output

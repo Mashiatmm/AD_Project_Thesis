@@ -1,0 +1,55 @@
+age
+Mental health problems ever diagnosed by a professional: Social anxiety or social phobia
+Cigarettes per Day
+ADHD
+Processed meat intake
+Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis
+Total cholesterol
+Hearing difficulty/problems: Yes
+systolic blood pressure
+Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself
+LDL cholesterol
+Non-cancer illness code, self-reported: hypothyroidism/myxoedema
+Non-cancer illness code, self-reported: hypertension
+Loneliness, isolation
+Leisure/social activities: Sports club or gym
+Body mass index (BMI)
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: Yes, during the last year
+Prospective memory result
+Sleeplessness / insomnia
+Hearing difficulty/problems with background noise
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: No
+gender
+Non-cancer illness code, self-reported: head injury
+Diagnoses - secondary ICD10: I10 Essential (primary) hypertension
+Nitrogen oxides air pollution; 2010
+Illness, injury, bereavement, stress in last 2 years: Financial difficulties
+Age completed full time education
+Oily fish intake
+Illness, injury, bereavement, stress in last 2 years: Marital separation/divorce
+Particulate matter air pollution 2.5-10um; 2010
+Microalbumin in urine
+Non-cancer illness code, self-reported: stroke
+Types of physical activity in last 4 weeks: Light DIY (eg: pruning, watering the lawn)
+Illnesses of father: Alzheimer's disease/dementia
+Non-oily fish intake
+Other meat intake
+Parkinson's disease
+Non-cancer illness code, self-reported: type 2 diabetes
+triglycerides
+Operation code: brain surgery
+Diagnoses - secondary ICD10: E66.9 Obesity, unspecified
+Ever had prolonged loss of interest in normal activities
+Alzheimer's disease
+Non-cancer illness code, self-reported: anxiety/panic attacks
+HDL cholesterol
+Mental health problems ever diagnosed by a professional: Anxiety, nerves or generalized anxiety disorder
+Mood swings
+Types of physical activity in last 4 weeks: Strenuous sports
+Leisure/social activities: Pub or social club
+Alcohol intake frequency
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: Yes, but not in the last year
+Illnesses of mother: Alzheimer's disease/dementia
+diastolic blood pressure
+Sleep duration
+Non-cancer illness code, self-reported: depression
