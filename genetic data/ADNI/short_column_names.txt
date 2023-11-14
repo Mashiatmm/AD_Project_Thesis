@@ -1,0 +1,55 @@
+Types of physical activity in last 4 weeks: Light DIY (eg: pruning, watering the lawn); Light Physical Exercise
+Hearing difficulty/problems with background noise; Hearing Difficulty
+Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself; Serious Illness/Injury
+age; Age
+Parkinson's disease; Parkinson's
+systolic blood pressure; Systolic blood pressure
+Non-cancer illness code, self-reported: hypothyroidism/myxoedema; Hypothyroidism
+Illness, injury, bereavement, stress in last 2 years: Financial difficulties; Financial Difficulties
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: No; No recommendation of alcohol consumption
+Mood swings; Mood Swings
+HDL cholesterol; HDL Cholesterol
+Types of physical activity in last 4 weeks: Strenuous sports; Strenuous Sports
+Loneliness, isolation; Loneliness
+Diagnoses - secondary ICD10: I10 Essential (primary) hypertension; Hypertension 1
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: Yes, during the last year; Recommendation of alcohol consumption
+Body mass index (BMI); BMI
+Non-oily fish intake; Non-Oily Fish Intake
+Leisure/social activities: Pub or social club; Pub/Social Club
+Sleeplessness / insomnia; Insomnia
+Mental health problems ever diagnosed by a professional: Anxiety, nerves or generalized anxiety disorder; Anxiety Disorder
+Non-cancer illness code, self-reported: depression; Depression
+Hearing difficulty/problems: Yes; Hearing Difficulty - Yes
+ADHD; ADHD
+Operation code: brain surgery; Brain Surgery
+Non-cancer illness code, self-reported: stroke; Stroke
+gender; Gender
+Microalbumin in urine; Microalbumin in Urine
+Oily fish intake; Oily Fish Intake
+diastolic blood pressure; Diastolic blood pressure
+Leisure/social activities: Sports club or gym; Sports Club/Gym
+Illnesses of mother: Alzheimer's disease/dementia; Mother's Alzheimer's
+Mental health problems ever diagnosed by a professional: Social anxiety or social phobia; Social Anxiety
+Processed meat intake; Processed Meat Intake
+Nitrogen oxides air pollution; 2010;Nitrogen Oxides Air Pollution
+Cigarettes per Day; Cigarettes per Day
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: Yes, but not in the last year; Recommendation of alcohol consumption - Yes, Not Last Year
+Illnesses of father: Alzheimer's disease/dementia; Father's Alzheimer's
+Alcohol intake frequency; Alcohol Intake Frequency
+Non-cancer illness code, self-reported: type 2 diabetes; Type 2 Diabetes
+Non-cancer illness code, self-reported: head injury; Head Injury
+Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis; Hyperthyroidism
+Sleep duration; Sleep Duration
+triglycerides; Triglycerides
+Ever had prolonged loss of interest in normal activities; Loss of Interest
+Prospective memory result; Prospective Memory
+Non-cancer illness code, self-reported: hypertension; Hypertension 2
+Diagnoses - secondary ICD10: E66.9 Obesity, unspecified; Obesity
+Other meat intake; Other Meat Intake
+LDL cholesterol; LDL Cholesterol
+Illness, injury, bereavement, stress in last 2 years: Marital separation/divorce; Marital Separation/Divorce
+Total cholesterol; Total Cholesterol
+Non-cancer illness code, self-reported: anxiety/panic attacks; Anxiety/Panic Attacks
+Age completed full time education; Age completed full time education 
+Particulate matter air pollution 2.5-10um; 2010;Particulate Matter Air Pollution
+Alzheimer's disease; Alzheimer's disease

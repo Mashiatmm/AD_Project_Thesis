@@ -1,0 +1,55 @@
+Alzheimer's disease
+Age
+Serious Illness/Injury
+Brain Surgery
+Parkinson's
+Hypothyroidism
+Sports Club/Gym
+Father's Alzheimer's
+Recommendation of alcohol consumption - Yes, Not Last Year
+Loneliness
+BMI
+Financial Difficulties
+Age completed full time education
+Hearing Difficulty - Yes
+Obesity
+Depression
+Non-Oily Fish Intake
+Systolic blood pressure
+Marital Separation/Divorce
+Total Cholesterol
+Loss of Interest
+Processed Meat Intake
+Cigarettes per Day
+Light Physical Exercise
+Particulate Matter Air Pollution
+ADHD
+Hyperthyroidism
+No recommendation of alcohol consumption
+Recommendation of alcohol consumption
+Pub/Social Club
+Hypertension 2
+Anxiety Disorder
+Anxiety/Panic Attacks
+Insomnia
+Hearing Difficulty
+Mother's Alzheimer's
+Microalbumin in Urine
+HDL Cholesterol
+Diastolic blood pressure
+Head Injury
+Type 2 Diabetes
+Other Meat Intake
+LDL Cholesterol
+Sleep Duration
+Stroke
+Triglycerides
+Alcohol Intake Frequency
+Strenuous Sports
+Prospective Memory
+Oily Fish Intake
+Gender
+Social Anxiety
+Hypertension 1
+Mood Swings
+Nitrogen Oxides Air Pollution

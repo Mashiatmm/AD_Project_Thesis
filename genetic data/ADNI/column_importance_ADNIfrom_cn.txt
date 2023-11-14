@@ -1,0 +1,55 @@
+Non-cancer illness code, self-reported: type 2 diabetes
+Cigarettes per Day
+Age completed full time education
+Non-cancer illness code, self-reported: depression
+Illnesses of mother: Alzheimer's disease/dementia
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: Yes, during the last year
+Sleep duration
+Mental health problems ever diagnosed by a professional: Anxiety, nerves or generalized anxiety disorder
+Sleeplessness / insomnia
+gender
+Other meat intake
+Ever had prolonged loss of interest in normal activities
+Illnesses of father: Alzheimer's disease/dementia
+Nitrogen oxides air pollution; 2010
+age
+Microalbumin in urine
+Non-cancer illness code, self-reported: head injury
+Hearing difficulty/problems: Yes
+Leisure/social activities: Sports club or gym
+Leisure/social activities: Pub or social club
+Non-cancer illness code, self-reported: stroke
+Illness, injury, bereavement, stress in last 2 years: Marital separation/divorce
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: Yes, but not in the last year
+Alcohol intake frequency
+Particulate matter air pollution 2.5-10um; 2010
+Non-cancer illness code, self-reported: anxiety/panic attacks
+triglycerides
+HDL cholesterol
+Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis
+systolic blood pressure
+Operation code: brain surgery
+Illness, injury, bereavement, stress in last 2 years: Financial difficulties
+LDL cholesterol
+Prospective memory result
+Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself
+Processed meat intake
+Diagnoses - secondary ICD10: I10 Essential (primary) hypertension
+Body mass index (BMI)
+Total cholesterol
+Oily fish intake
+diastolic blood pressure
+Non-cancer illness code, self-reported: hypertension
+Alzheimer's disease
+ADHD
+Diagnoses - secondary ICD10: E66.9 Obesity, unspecified
+Mood swings
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: No
+Mental health problems ever diagnosed by a professional: Social anxiety or social phobia
+Types of physical activity in last 4 weeks: Strenuous sports
+Types of physical activity in last 4 weeks: Light DIY (eg: pruning, watering the lawn)
+Hearing difficulty/problems with background noise
+Non-oily fish intake
+Loneliness, isolation
+Parkinson's disease
+Non-cancer illness code, self-reported: hypothyroidism/myxoedema

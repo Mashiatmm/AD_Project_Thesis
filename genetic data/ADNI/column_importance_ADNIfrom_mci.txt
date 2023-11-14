@@ -1,0 +1,55 @@
+Parkinson's disease
+Alzheimer's disease
+Types of physical activity in last 4 weeks: Light DIY (eg: pruning, watering the lawn)
+Illness, injury, bereavement, stress in last 2 years: Financial difficulties
+Non-cancer illness code, self-reported: hypothyroidism/myxoedema
+Non-cancer illness code, self-reported: anxiety/panic attacks
+diastolic blood pressure
+age
+Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself
+Leisure/social activities: Pub or social club
+Non-cancer illness code, self-reported: hypertension
+Types of physical activity in last 4 weeks: Strenuous sports
+Non-oily fish intake
+Ever had prolonged loss of interest in normal activities
+Hearing difficulty/problems: Yes
+systolic blood pressure
+Loneliness, isolation
+Diagnoses - secondary ICD10: I10 Essential (primary) hypertension
+Sleep duration
+Illness, injury, bereavement, stress in last 2 years: Marital separation/divorce
+Total cholesterol
+Hearing difficulty/problems with background noise
+Alcohol intake frequency
+Microalbumin in urine
+Non-cancer illness code, self-reported: stroke
+Mental health problems ever diagnosed by a professional: Anxiety, nerves or generalized anxiety disorder
+Illnesses of father: Alzheimer's disease/dementia
+Mental health problems ever diagnosed by a professional: Social anxiety or social phobia
+gender
+Processed meat intake
+Body mass index (BMI)
+HDL cholesterol
+Age completed full time education
+Particulate matter air pollution 2.5-10um; 2010
+Diagnoses - secondary ICD10: E66.9 Obesity, unspecified
+Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: Yes, but not in the last year
+Illnesses of mother: Alzheimer's disease/dementia
+Mood swings
+Prospective memory result
+ADHD
+Sleeplessness / insomnia
+Leisure/social activities: Sports club or gym
+Other meat intake
+Nitrogen oxides air pollution; 2010
+Non-cancer illness code, self-reported: type 2 diabetes
+Oily fish intake
+Non-cancer illness code, self-reported: head injury
+LDL cholesterol
+Cigarettes per Day
+Operation code: brain surgery
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: Yes, during the last year
+Ever had known person concerned about, or recommend reduction of, alcohol consumption: No
+Non-cancer illness code, self-reported: depression
+triglycerides
