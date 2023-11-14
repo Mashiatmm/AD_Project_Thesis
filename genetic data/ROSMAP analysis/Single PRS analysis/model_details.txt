@@ -1,0 +1,2 @@
+Neural Network with 4 layers_4yrs_3 -> accuracy : 0.6388888888888888
+Neural Network with 4 layers_4yrs_3 -> accuracy : 0.6388888888888888
